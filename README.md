@@ -13,7 +13,7 @@
 - logging
 - sys
 
-## Instrutions
+## Instructions
 
 - Move to ProjectFolder/irace/
 - How to run this on windows:
