@@ -3,9 +3,9 @@
 
 # Requirements
 
-- Python 3
-- R >= 3.3.0
-- IRACE (R package) = 2.4
+- Python 3.6
+- R 4.02
+- IRACE (R package) 3.4
 
 ## Python Packages
 
@@ -16,11 +16,15 @@
 ## Instrutions
 
 - Move to ProjectFolder/irace/
-- How to run this shit on windows:
+- How to run thison windows:
 	'irace --target-runner target-runner.bat'
 - On linux run the commando:
 	'irace'
 - Done
 
-For more informations:
-https://cran.r-project.org/web/packages/irace/vignettes/irace-package.pdf
+## Recommended sources
+
+- irace web with papers and user guide:
+https://iridia.ulb.ac.be/irace/
+- Repository to the original Python-irace package:
+https://github.com/SergioSJS/python-irace
