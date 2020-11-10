@@ -1,0 +1,1 @@
+['../main.py', 'scenario.txt', '--pop=134', '--cros=0.47', '--mut=0.24', '--datfile=c134-6.dat']
