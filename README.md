@@ -16,7 +16,7 @@
 ## Instrutions
 
 - Move to ProjectFolder/irace/
-- How to run thison windows:
+- How to run this on windows:
 	'irace --target-runner target-runner.bat'
 - On linux run the commando:
 	'irace'
