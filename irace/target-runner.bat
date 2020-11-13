@@ -58,8 +58,8 @@ if exist %DAT_FILE% (
     for /f %%z in (%DAT_FILE%) DO (
 		echo %%z
 	)
-	del %DAT_FILE%
-	del %LOGS%
+	::del %DAT_FILE%
+	::del %LOGS%
 	exit 0
 ) 
 else (

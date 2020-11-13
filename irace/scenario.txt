@@ -26,7 +26,7 @@ maxExperiments = 1000
 
 ## Indicates the number of decimal places to be considered for the
 ## real parameters.
-digits = 2
+digits = 3
 
 ## Number of calls to targetRunner to execute in parallel. Less than 2
 ## means calls to targetRunner are sequentially executed.

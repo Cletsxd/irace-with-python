@@ -9,4 +9,7 @@
 ## then the configuration is discarded.
 ##
 ## Examples of valid logical operators are: ==  !=  >=  <=  >  <  &  |  !  %in%
-population%%2 != 0
+initialphi < phiupper
+phiupper < philower
+initialphi < philower
+velocityup < velocitylo

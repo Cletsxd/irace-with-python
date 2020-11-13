@@ -1,1 +1,1 @@
-['../main.py', 'scenario.txt', '--pop=134', '--cros=0.47', '--mut=0.24', '--datfile=c134-6.dat']
+['../main.py', 'irace-run.R', '--pop=36', '--c1=0.209', '--c2=0.746', '--w=0.338', '--w1=0.793', '--phi=0.564', '--phiup=0.504', '--philo=0.31', '--velup=0.814', '--vello=-0.232', '--datfile=c9-3.dat']

@@ -26,6 +26,13 @@
 ##    condition is satisfied, FALSE otherwise.
 
 # 1:            2:                   3: 4:      5:
-population      "--pop="        i  (50, 300)
-crossover       "--cros="       r  (0.01, 1.0)
-mutation        "--mut="        r  (0.01, 1.0)
+population	"--pop="	i	(20, 110)
+c1	"--c1="	r	(0.1, 3)
+c2	"--c2="	r	(0.1, 3)
+w	"--w="	r	(0.001, 1)
+w1	"--w1="	r	(0.001, 1)
+initialphi	"--phi="	r	(0.001, 1)
+phiupper	"--phiup="	r	(0.001, 1)
+philower	"--philo="	r	(0.001, 1)
+velocityup	"--velup="	r	(-1, 1)
+velocitylo	"--vello="	r	(-1, 1)
